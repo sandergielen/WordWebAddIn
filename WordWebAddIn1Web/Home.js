@@ -1,6 +1,5 @@
 ﻿/// <reference path="/Scripts/FabricUI/MessageBanner.js" />
 
-
 (function () {
     "use strict";
 
