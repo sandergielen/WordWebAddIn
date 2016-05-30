@@ -10,3 +10,4 @@ c:\users\sander\documents\visual studio 2015\Projects\WordWebAddIn\WordWebAddIn2
 c:\users\sander\documents\visual studio 2015\Projects\WordWebAddIn\WordWebAddIn2\bin\Debug\roslyn\vbc.exe
 c:\users\sander\documents\visual studio 2015\Projects\WordWebAddIn\WordWebAddIn2\bin\Debug\roslyn\VBCSCompiler.exe
 c:\users\sander\documents\visual studio 2015\Projects\WordWebAddIn\WordWebAddIn2\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Sander\Documents\Visual Studio 2015\Projects\WordWebAddIn\WordWebAddIn2\obj\Debug\WordWebAddIn2.csprojResolveAssemblyReference.cache
